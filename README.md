@@ -1,5 +1,4 @@
-A final year project on Differential Privacy in Secure Federated
-Averaging Algorithm at ELTE UNIVERSITY, Faculty of Informatics - Budapest, Hungary
+A research project exploring privacy-preserving techniques in Federated Learning (FL) using Secure Aggregation (SecAgg+), gradient defense strategies (pruning, quantization, noise), and gradient inversion attack simulations.
 
 - ✅ Overview  
 - 🚀 Features  
@@ -9,13 +8,6 @@ Averaging Algorithm at ELTE UNIVERSITY, Faculty of Informatics - Budapest, Hunga
 - 🔐 Security Notes  
 - 🙋🏽‍♂️ Contribution  
 - 📚 References 
-
----
-
-```markdown
-# 🔐 Federated Learning with Secure Aggregation (SecAgg+) and Gradient Defense
-
-A research project exploring privacy-preserving techniques in Federated Learning (FL) using Secure Aggregation (SecAgg+), gradient defense strategies (pruning, quantization, noise), and gradient inversion attack simulations.
 
 ---
 
