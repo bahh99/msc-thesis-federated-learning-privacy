@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+authors:
+  - family-names: Bah
+    given-names: Umaru
+title: "Differential Privacy in Secure Federated Averaging"
+institution: ELTE University
+year: 2024
+url: https://github.com/bahh99/msc-thesis-federated-learning-privacy
