@@ -139,3 +139,8 @@ Pull requests are welcome! If you plan to make major changes, please open an iss
 - CIFAR-100 Dataset: [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ---
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flower](https://img.shields.io/badge/Flower_FL-Framework-green?style=for-the-badge)
+![MSc Thesis](https://img.shields.io/badge/MSc_Thesis-ELTE_University-003087?style=for-the-badge)
+![Privacy](https://img.shields.io/badge/Differential_Privacy-Research-red?style=for-the-badge)
